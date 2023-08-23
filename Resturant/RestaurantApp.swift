@@ -1,6 +1,6 @@
 //
-//  ResturantApp.swift
-//  Resturant
+//  RestaurantApp.swift
+//  Restaurant
 //
 //  Created by Admin on 8/16/23.
 //
@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct ResturantApp: App {
+struct RestaurantApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
